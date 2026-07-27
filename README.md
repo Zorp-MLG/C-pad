@@ -14,7 +14,7 @@ I tried to come up with a unique idea for stardance, and this is what i came up 
 ## PCB
 
 
-This is how the PCB looks
+This is how the PCB looks, I wanted it too look a little professional, but still personal! Im pretty proud of it, its my first ever PCB^_^
 
 <img width="594" height="566" alt="image" src="https://github.com/user-attachments/assets/1fac894a-59b2-4463-bfd9-5d1c425cd337" />
 
