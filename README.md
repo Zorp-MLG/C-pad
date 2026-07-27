@@ -1,14 +1,13 @@
 # C-pad
 A hackpad that lets you code c++ with only 9 keys! 
 
-
-<img width="1920" height="1080" alt="C (1)" src="https://github.com/user-attachments/assets/edf3c936-5287-4c1b-88ba-42944a007918" />
-
-
 ## links:
 Stardance hackclub Profile: https://stardance.hackclub.com/@MustafaBerisha/projects
 
 This Project on Stardance Hackclub: https://stardance.hackclub.com/projects/23793
+
+
+<img width="1920" height="1080" alt="C (1)" src="https://github.com/user-attachments/assets/edf3c936-5287-4c1b-88ba-42944a007918" />
 
 ## DEVLOGS:
 (for pictures go to the stardance hackclub page link)
