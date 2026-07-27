@@ -6,7 +6,6 @@ Stardance hackclub Profile: https://stardance.hackclub.com/@MustafaBerisha/proje
 
 This Project on Stardance Hackclub: https://stardance.hackclub.com/projects/23793
 
-
 <img width="1920" height="1080" alt="C (1)" src="https://github.com/user-attachments/assets/edf3c936-5287-4c1b-88ba-42944a007918" />
 
 ## DEVLOGS:
