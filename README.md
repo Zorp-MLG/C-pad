@@ -1,6 +1,8 @@
 # C-pad
 A hackpad that lets you code c++ with only 9 keys! 
 
+This is a work in process!
+
 ## links:
 Stardance hackclub Profile: https://stardance.hackclub.com/@MustafaBerisha/projects
 
