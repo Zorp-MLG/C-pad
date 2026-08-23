@@ -23,6 +23,5 @@ This is how the PCB looks, I wanted it too look a little professional, but still
 ## Schematic
 
 This is also my first schematic!! Netlabels seemed really hard at first but got really easy!
-<img width="753" height="346" alt="image" src="https://github.com/user-attachments/assets/bb2be1e6-352e-49ae-a71e-7c140c67d834" />
-
+<img width="1240" height="562" alt="image" src="https://github.com/user-attachments/assets/4b7ae05b-6821-4aab-8c03-b97075ae2e8a" />
 
